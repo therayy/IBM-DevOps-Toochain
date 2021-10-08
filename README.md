@@ -8,5 +8,6 @@
 
 ### Create a Toolchain & add and Configure tool integrations:
  GitHub | Delivery Pipeline | Eclipse Orion Web IDE | 
- 	Source control and issue tracking | Continuous integration and delivery | A full-featured, browser-based development environment |
 ---- | ---- | ---- | 
+Source control and issue tracking | Continuous integration and delivery | A full-featured, browser-based development environment |
+ 
