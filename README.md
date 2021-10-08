@@ -1,4 +1,4 @@
-<align="center"> # IBM DevOps Toolchain <align/>
+# IBM DevOps Toolchain 
 
 ### Requirments:
 - You must have an IBM Cloud & Github accounts. 
